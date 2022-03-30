@@ -29,4 +29,4 @@ clear
 echo "==========================="
 echo "INSTALLING RUDDER AGENT"
 echo "==========================="
-apt-get install rudder-agent
+apt-get -y install rudder-agent
